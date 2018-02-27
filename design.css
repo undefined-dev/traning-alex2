@@ -1,0 +1,167 @@
+.body {
+	margin: 0;
+   font-family: 'Open Sans',sans-serif;
+}
+
+
+.middle-page {
+	text-align: center;
+}
+
+.menu {
+	font-size: 9px;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+
+.title-word {
+	margin-right: 470px;
+}
+
+.title {
+	font-size: 15px;
+
+}
+
+.hero {
+	font-size: 1.143rem;
+	color: #333;
+}
+
+.button1 {
+   border-radius: 7px;
+   background-color: rgb(124, 155, 239);
+   height:43px;
+   width:195px;
+   cursor:pointer;
+   font-weight: bold;
+   color: white;
+}
+
+.button1:hover {
+   background-color:#a2c0f2;
+   color:white;
+   transition-duration: 0.2s;
+}
+
+.button2 {
+   border-radius: 7px;
+   background-color: rgb(124, 155, 239);
+   height:43px;
+   width:195px;
+   cursor:pointer;
+   font-weight: bold;
+   color: white;
+}
+
+.button2:hover {
+   background-color:#a2c0f2;
+   color:white;
+   transition-duration: 0.2s;
+ }
+
+ .post {
+ 	text-align: center;
+ 	font-size: 14px;
+ 	color: #919BA2;
+ 	margin-top: 50px;
+ }
+
+ .buttons {
+  margin-right: 9%;
+
+ }
+
+ .Twitter {
+   border-width: 1px;
+   border-radius: 4px;
+   background-color:#fafafa;
+   height:35px;
+   width:90px;
+   cursor:pointer;
+   font-weight: bold;
+   color:#919BA2;  
+}
+
+.Twitter:hover {
+   color:#7ba4e5;
+   transition-duration: 0.2s;
+   border-color: #7ba4e5;
+}
+
+.Facebook {
+   border-width: 1px;
+   border-radius: 4px;
+   background-color:#fafafa;
+   height:35px;
+   width:90px;
+   cursor:pointer;
+   font-weight: bold;
+   color:#919BA2;  
+}
+
+.Facebook:hover {
+   color:#7ba4e5;
+   transition-duration: 0.2s;
+   border-color: #7ba4e5;
+}
+
+.Google {
+   border-width: 1px;
+   border-radius: 4px;
+   background-color:#fafafa;
+   height:35px;
+   width:90px;
+   cursor:pointer;
+   font-weight: bold;
+   color:#919BA2;  
+}
+
+.Google:hover {
+   color:#7ba4e5;
+   transition-duration: 0.2s;
+   border-color: #7ba4e5;
+}
+
+.Pinterest {
+   border-width: 1px;
+   border-radius: 4px;
+   background-color:#fafafa;
+   height:35px;
+   width:90px;
+   cursor:pointer;
+   font-weight: bold;
+   color:#919BA2;  
+}
+
+.Pinterest:hover {
+   color:#7ba4e5;
+   transition-duration: 0.2s;
+   border-color: #7ba4e5;
+}
+.button-menu {
+   padding-left: 650px;
+   padding-top: 50px;
+}
+
+.bottom {
+   text-align: center;
+   color:#919BA2;
+   margin-top: 200px;
+}
+
+.Subscribe {
+   color: #333;
+
+}
+
+#submit {
+   color: white;
+   background-color: rgb(124, 155, 239);
+   font-size:20px;
+}
+
+
+
+
+
